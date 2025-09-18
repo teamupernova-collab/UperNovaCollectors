@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "UperNovaCollectors"
 include(":app")
+include(":WidgetsLibrary")
